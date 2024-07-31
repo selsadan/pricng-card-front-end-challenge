@@ -137,4 +137,7 @@ html {
         width: 550px;
         height: 400px;
     }
+    #left-buttom-section, #right-buttom-section {
+        width: 50%;
+    }
 }
