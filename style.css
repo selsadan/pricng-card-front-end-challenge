@@ -121,9 +121,17 @@ html {
     opacity: 0.8;
   }
   
-  @media (max-width: 650px) {
+  
+  /* Here we are using the desktop first approach */
+
+  /* @media (max-width: 650px) {
     #card, #bottom-left-section, #bottom-right-section {
       width: 100%;
       height: auto;
     }
-  }
+  } */
+
+
+  /* Here we are going to use the mobile first approach  */
+
+  
