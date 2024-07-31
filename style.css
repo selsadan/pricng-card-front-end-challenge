@@ -134,3 +134,9 @@ html {
 
   /* Here we are going to use the mobile first approach  */
 
+@media (min-width){
+    #card{
+        width: 550px;
+        height: 400px;
+    }
+}
